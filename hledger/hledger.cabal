@@ -2,7 +2,7 @@
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 99eb38f5627e64b90fe33622dba3444cfb4f1d57f69c12b19731fb061f2b896a
+-- hash: 1c74b5b16bb8524e2463d91b0b9dc5cd0cfb80b8ea62d6a208ff3490a1f0d7d2
 
 name:           hledger
 version:        1.9
@@ -151,7 +151,6 @@ library
       Hledger.Cli.Commands.Stats
       Hledger.Cli.Commands.Tags
       Hledger.Cli.CompoundBalanceCommand
-      Text.Tabular.AsciiWide
   other-modules:
       Paths_hledger
   default-language: Haskell2010
